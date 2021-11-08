@@ -1,1 +1,2 @@
 # shipping-cost-program
+This program can calculate the shipping cost of any item. Firstly, items are divided into two categories such as fragile and non-fragile. If it is fragile there will be a certain fee added. Again, the shipping cost depends on the destination and total order value. Based on the destination and value range there shipping cost will be added. And in every case if the value is over 150 there won’t be any shipping charge. 
